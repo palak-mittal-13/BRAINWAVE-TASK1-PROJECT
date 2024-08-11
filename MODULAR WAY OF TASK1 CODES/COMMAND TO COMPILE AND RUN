@@ -1,0 +1,7 @@
+//Compile the program with the following command:
+g++ -o atm_interface Account.cpp ATM.cpp main.cpp
+
+
+
+//Execute the compiled program with:
+./atm_interface
